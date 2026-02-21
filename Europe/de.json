@@ -477,7 +477,7 @@
     "Supplier": "Lieferant",
     "Supplier/Vendor": "Lieferant/Verkäufer",
     "Supplies": "Ersatzteile",
-    "Supplies_are_requisitioned_immediately_after_the_record_is_saved.": "Ersatzteile werden nach dem speichern sofort angefordert.",
+    "Supplies_are_requisitioned_immediately_after_the_record_is_saved.": "Ersatzteile werden nach dem Speichern sofort angefordert.",
     "Supply_Requisition_History": "Ersatzteilanforderungsverlauf",
     "Tags": "Tags",
     "Tags(optional)": "Tags (optional)",
